@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #d2e1ec, #ffffff);
+    margin: 0;
+    padding: 0;
+  }
+  
+  h2, h3 {
+    margin-top: 20px;
+    color: #333;
+  }
+  

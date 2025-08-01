@@ -1,0 +1,17 @@
+.searchbox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .searchbox form {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .searchbox button {
+    width: 100%;
+    padding: 8px 0;
+  }
+  

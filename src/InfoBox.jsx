@@ -7,7 +7,7 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 
 import Typography from '@mui/material/Typography';
-import "./infoBox.css";
+import "./InfoBox.css";
 function InfoBox({info}) {
     const HOT_URL = "https://media.istockphoto.com/id/491701259/photo/blue-sky-with-sun.jpg?s=612x612&w=0&k=20&c=aB7c-e0YFezBb8cgSykiEcAh_2fXEie3inIudnsNa9g=";
     const COLD_URL = "https://media.istockphoto.com/id/521998431/photo/whiteout-conditions.jpg?s=612x612&w=0&k=20&c=9CQs7-I4uhQhQZyQoeVL9If3dDMqXll9_glqkMAMLIQ=";
